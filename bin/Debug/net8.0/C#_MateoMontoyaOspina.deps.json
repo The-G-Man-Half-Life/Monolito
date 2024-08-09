@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#_MateoMontoyaOspina/1.0.0": {
+        "runtime": {
+          "C#_MateoMontoyaOspina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_MateoMontoyaOspina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
